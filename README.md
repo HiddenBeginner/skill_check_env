@@ -17,10 +17,10 @@ The pointer rotates with an angle velocity of 360 degrees per  second, and the e
 
 Action space of the environment consists for two discrete actions, 0 for no operation and 1 for performing skill check.
 
-To play Skill Check environment in human mode,
+To play Skill Check environment in human mode, run `env.py`.
 
 ~~~
-$ python train.py
+$ python env.py
 ~~~
 
 ## DQN agent
